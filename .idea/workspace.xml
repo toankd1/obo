@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a3d7a13-16e8-4062-b2f9-e2a26fdfc8a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/config/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/config/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/DashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageBrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageBrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManagePostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManagePostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManageProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManagePromotionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/admin/ManagePromotionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/PromotionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/PromotionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/controller/anonymous/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Brand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Finance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Finance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/ProductSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/ProductSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/ProductSizeId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/ProductSizeId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Promotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/Promotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/CustomExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/CustomExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/DuplicateRecordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/DuplicateRecordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/InternalServerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/InternalServerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/exception/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/BrandInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/BrandInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/CategoryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/CategoryInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/CheckPromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/CheckPromotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/DetailProductInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/DetailProductInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ImgDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ImgDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/OrderDetailDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/OrderDetailDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/OrderInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/OrderInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/PageableDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/PageableDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/PostInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/PostInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ProductInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ProductInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ShortProductInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/ShortProductInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/PromotionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/PromotionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/ChangePasswordReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/ChangePasswordReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateBrandReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateBrandReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateCategoryReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateCategoryReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateOrderReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateOrderReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreatePostReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreatePostReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateProductReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateProductReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreatePromotionReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreatePromotionReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateUserReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/CreateUserReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/FilterProductReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/FilterProductReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/LoginReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/LoginReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateDetailOrderReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateDetailOrderReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateOnfeetImagesReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateOnfeetImagesReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateProfileReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateProfileReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateSizeCountReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateSizeCountReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateStatusOrderReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/model/request/UpdateStatusOrderReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/BrandRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/BrandRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ProductSizeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/ProductSizeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/PromotionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/PromotionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/ConfigInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/ConfigInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtRequestFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/JwtUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/BlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/ImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/PromotionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/PromotionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/BlogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/ImageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/ImageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/PromotionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/PromotionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x9rX8Y9foSj3I73gf1U8CK4r6O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25605536" />
+    <property name="settings.editor.selected.configurable" value="blaze.view" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="obo-stadium" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3d7a13-16e8-4062-b2f9-e2a26fdfc8a0" name="Default Changelist" comment="" />
+      <created>1629778181592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629778181592</updated>
+      <workItem from="1629778184657" duration="2326000" />
+      <workItem from="1630782244335" duration="3698000" />
+      <workItem from="1630815052396" duration="3000000" />
+      <workItem from="1631375831477" duration="3859000" />
+      <workItem from="1639441429986" duration="1724000" />
+      <workItem from="1639468566244" duration="2489000" />
+      <workItem from="1639495883327" duration="1532000" />
+      <workItem from="1639534871141" duration="12000" />
+      <workItem from="1640056438712" duration="5590000" />
+      <workItem from="1640454324250" duration="1050000" />
+      <workItem from="1640573580339" duration="652000" />
+      <workItem from="1640787717474" duration="6098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="685" key="GridCell.Tab.0.bottom" timestamp="1640788401801">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.0.bottom/0.27.1920.995@0.27.1920.995" timestamp="1640788401801" />
+    <state width="1874" height="685" key="GridCell.Tab.0.center" timestamp="1640788401801">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.0.center/0.27.1920.995@0.27.1920.995" timestamp="1640788401801" />
+    <state width="1874" height="685" key="GridCell.Tab.0.left" timestamp="1640788401801">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.0.left/0.27.1920.995@0.27.1920.995" timestamp="1640788401801" />
+    <state width="1874" height="685" key="GridCell.Tab.0.right" timestamp="1640788401801">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.0.right/0.27.1920.995@0.27.1920.995" timestamp="1640788401801" />
+    <state width="1874" height="685" key="GridCell.Tab.1.bottom" timestamp="1640788401802">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.1.bottom/0.27.1920.995@0.27.1920.995" timestamp="1640788401802" />
+    <state width="1874" height="685" key="GridCell.Tab.1.center" timestamp="1640788401802">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.1.center/0.27.1920.995@0.27.1920.995" timestamp="1640788401802" />
+    <state width="1874" height="685" key="GridCell.Tab.1.left" timestamp="1640788401802">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.1.left/0.27.1920.995@0.27.1920.995" timestamp="1640788401802" />
+    <state width="1874" height="685" key="GridCell.Tab.1.right" timestamp="1640788401802">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.1.right/0.27.1920.995@0.27.1920.995" timestamp="1640788401802" />
+    <state width="1874" height="685" key="GridCell.Tab.2.bottom" timestamp="1640788401803">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.2.bottom/0.27.1920.995@0.27.1920.995" timestamp="1640788401803" />
+    <state width="1874" height="685" key="GridCell.Tab.2.center" timestamp="1640788401803">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.2.center/0.27.1920.995@0.27.1920.995" timestamp="1640788401803" />
+    <state width="1874" height="685" key="GridCell.Tab.2.left" timestamp="1640788401802">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.2.left/0.27.1920.995@0.27.1920.995" timestamp="1640788401802" />
+    <state width="1874" height="685" key="GridCell.Tab.2.right" timestamp="1640788401803">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="1874" height="685" key="GridCell.Tab.2.right/0.27.1920.995@0.27.1920.995" timestamp="1640788401803" />
+    <state x="449" y="159" width="1022" height="737" key="SettingsEditor" timestamp="1640060585002">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="449" y="159" width="1022" height="737" key="SettingsEditor/0.27.1920.995@0.27.1920.995" timestamp="1640060585002" />
+    <state x="650" y="263" width="957" height="522" key="find.popup" timestamp="1640798930603">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="650" y="263" width="957" height="522" key="find.popup/0.27.1920.995@0.27.1920.995" timestamp="1640798930603" />
+  </component>
+</project>
