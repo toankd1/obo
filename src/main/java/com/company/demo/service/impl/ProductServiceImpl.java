@@ -60,7 +60,7 @@ public class ProductServiceImpl implements ProductService {
 
   @Override
   public List<ProductInfoDto> getListNewProduct() {
-    List<ProductInfoDto> products = productRepository.getListNewProduct(5);
+    List<ProductInfoDto> products = productRepository.getListNewProduct(6);
 
     return promotionService.checkPublicPromotion(products);
   }
